@@ -128,3 +128,9 @@ The BSD 3-Clause License is widely used in academic and commercial settings, off
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin feature/my-new-feature`)
 5. Create a new Pull Request
+
+## Copyright
+
+Copyright (c) 2025, Phillip Salzman & Foundry Peak, LLC. All rights reserved.  Web: <a href="http://foundrypeak.com">http://foundrypeak.com/</a>
+
+For licensing details, see the [LICENSE](LICENSE) file.
