@@ -1,5 +1,5 @@
 {
-  "name": "openfec-mcp",
+  "name": "mcp-openfec",
   "version": "1.0.0",
   "type": "module",
   "main": "build/server.js",
@@ -7,9 +7,9 @@
     "build": "tsc && chmod +x build/server.js",
     "start": "node build/server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["mcp", "openfec", "fec", "campaign-finance"],
+  "author": "Phillip Salzman <psalzman@foundrypeak.com> (Foundry Peak, LLC)",
+  "license": "BSD-3-Clause",
   "description": "OpenFEC API MCP Server",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.5.0",
