@@ -21,7 +21,7 @@ A Model Context Protocol (MCP) server that provides access to Federal Election C
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/psalzman/mcp-openfec
 cd mcp-openfec
 ```
 
